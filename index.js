@@ -1,5 +1,9 @@
 const discord = require("discord.js");
 const botConfig = require("./botconfig.json");
+const xp = require("./levels.json");
+const coins = require("./coins.json");
+const cooldown = new Set();
+const cdseconds = 5;
 
 
 
