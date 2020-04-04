@@ -1,0 +1,15 @@
+{
+  "name": "trust_ticket",
+  "version": "1.0.0",
+  "description": "Ticket bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.3",
+    "quickdb": "^1.0.5"
+  }
+}
